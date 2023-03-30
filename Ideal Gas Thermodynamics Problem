@@ -1,0 +1,17 @@
+Consider a system of three ideal gases A, B, and C, each with a constant heat capacity ratio of γ = 1.4. The gases are contained in a rigid, adiabatic container of volume V = 1 m^3. Initially, gas A occupies half of the container at a temperature of T_A = 400 K and a pressure of P_A = 5 MPa, while gases B and C each occupy a quarter of the container at a temperature of T_B = T_C = 300 K and a pressure of P_B = P_C = 1 MPa.
+
+The system is then subjected to a series of reversible and irreversible processes, as follows:
+
+Gas A expands isothermally to occupy the entire container, while gases B and C are kept at constant volume.
+
+Gas A is then compressed adiabatically back to its original volume, while gases B and C are still at constant volume.
+
+Gas A is now allowed to expand adiabatically and irreversibly to its original pressure, while gases B and C are still at constant volume.
+
+The partition separating gases B and C is suddenly removed, allowing the two gases to mix irreversibly.
+
+The combined gas of B and C is then compressed adiabatically to half its original volume, while gas A is still at its original pressure and volume.
+
+The entire system is then allowed to come to thermal equilibrium at a final temperature of T_f = 350 K.
+
+Determine the final pressure, volume, and entropy change of each gas, as well as the total change in entropy of the system. Additionally, determine the work and heat transferred during each process, and determine the overall efficiency of the system. Finally, determine the feasibility of the process and explain any limitations or practical considerations that must be taken into account.
